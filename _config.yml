@@ -1,12 +1,10 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : whoami
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+                      Love to learn complicated thing.
+baseurl             : "/whoami"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : shivamsharmatech/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/whoami
 
 
 ### Plugins ###
@@ -24,24 +22,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Shivam Sharma
+  image             : https://i.imgur.com/WHKpxbj.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : shivam8tech@gmail.com
+# facebook          : your_username
+  github            : shivamsharmatech
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : shivam-sharma-1b71231a3
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : shivam04420
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
