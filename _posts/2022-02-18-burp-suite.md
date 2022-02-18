@@ -12,8 +12,8 @@
 This article will give a brief introduction to what Burp Suite is and the tools offered by BurpSuite. If you are a complete beginner in Web Application Pentest/Web App Hacking/Bug Bounty, we would recommend you to just read through without thinking too much about any term.
 
 ## What is Burp Suite?
-Burp Suite is a application which consists of a set of tools used for penetration testing of web applications. It is developed by the company called Portswigger.
-Burp Suite aims to be an all in one set of tools and its capabilities can be enhanced by installing add-ons that are called BApps.
+Burp Suite is an application that consists of a set of tools used for penetration testing of web applications. It is developed by a company called Portswigger.
+Burp Suite aims to be an all-in-one set of tools and its capabilities can be enhanced by installing add-ons that are called BApps.
 Burp Suite is available in three versions, that are: 
 1. Community edition.
 2. Professional edition.
@@ -35,7 +35,7 @@ It is very easy to use and this reason makes it a more suitable choice over all 
 Now let us explore these tools in detail,
 
 #### 1. Target
-The Target tool gives you an overview of your target application's content and functionality, and lets you drive key parts of your testing workflow. Target tool consists of three tabs, that are as follows :
+The Target tool gives you an overview of your target application's content and functionality, and lets you drive key parts of your testing workflow. The target tool consists of three tabs, that are as follows : 
 
 - Site Map
 - Scope
@@ -50,7 +50,7 @@ The site map displays information about the contents and security issues that ha
 
 ***Scope*** 
 
-Target scope is used to tell Burp Suite what you're currently interested in testing. By defining a target scope, you can include only what you need to test right now, and exclude every content that is outside your work. Doing this also improves performance and memory usage.
+Target scope is used to tell Burp Suite what you're currently interested in testing. By defining a target scope, you can include only what you need to test right now and exclude every content that is outside your work. Doing this also improves performance and memory usage.
 
 <img src="/assets/images/bp2.png" alt="image" width="650" height="760">
 
